@@ -1,0 +1,27 @@
+PODS:
+  - CocoapodsExample (0.1.0)
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - CocoapodsExample (from `../`)
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  CocoapodsExample:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoapodsExample: c56878ead65fe17cde92e5199aa39820c6b692ea
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 3625f7f4c36782dacdce1310ddf3cb4774a2790a
+
+COCOAPODS: 1.9.1
